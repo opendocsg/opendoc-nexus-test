@@ -9,7 +9,7 @@ server_PROD: https://search.opendoc.sg
 server_DEV: https://search-staging.opendoc.sg
 google_analytics:  
 styling_options:
-  primary_brand_color: '#444'  #----> Optional, theme color
-  logo_path: /assets/logo.png  #----> Optional, path to logo
+  primary_brand_color: '#c7121f'
+  logo_path: /assets/logo.jpg
   opendoc_logo_path: /assets/images/logo-full.png
   feedback_url:  #----> Optional, feedback url
