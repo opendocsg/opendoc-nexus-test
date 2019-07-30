@@ -12,7 +12,7 @@ title: Terms & Conditions
 
 > iii. Employees and / or the immediate family members of the Organisers are not eligible to participate in the Competition.
 
-> iv. Each participant can submit a maximum of 2 entries.
+> iv. Each participant can submit a maximum of 2 designs (1 entry).
 
 > v. Participants must provide information that is correct and true.
 
