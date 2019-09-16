@@ -12,15 +12,15 @@ title: Terms & Conditions
 
 > iii. Employees and / or the immediate family members of the Organisers are not eligible to participate in the Competition.
 
-> iv. Each participant can submit a maximum of 2 designs (1 entry).
+> iv. Each participant can submit a maximum of 2 entries.
 
 > v. Participants must provide information that is correct and true.
 
-> vi. Participants must submit the following information for their entry/entries to be considered for shortlisting
+> vi. Participants must submit the following information for their entry/entries to be considered for shortlisting:
 
 > > a. Entry design(s); and
 
-> > b. A 500-word (maximum) brief describing each of design concept(s),.
+> > b. A 500-word (maximum) brief describing each of design concept(s).
 
 > vii. Participants should ensure that the digital resolution of their entries is at least 600 dpi with a minimum of 900 pixels per side, and a minimum size of 80mm x 80mm to be considered for shortlisting.
 
@@ -36,7 +36,7 @@ title: Terms & Conditions
 
 ## Copyrights
 
-> xii. The organisers hold the full copyrights for all logo designs submitted for the competition. By participating in the Competition, participants consent to give the Organisers permission to publish, modify and distribute the logo designs for education, publicity, marketing and communication purposes without payment or fees.
+> xii. The Organisers hold the full copyrights for the 5 logo designs shortlisted by the shortlisting panel. By participating in the contest, participants consent to give the Organisers permission to publish, modify and distribute the logo designs for education, publicity, marketing and communication purposes without payment or fees, should their designs be shortlisted for public voting.
 
 ## Shortlisting
 
@@ -50,7 +50,6 @@ title: Terms & Conditions
 
 ## Prize
 
-> xvii. The Organisers reserve the right to substitute another prize of similar or equivalent value to be awarded to the winners of the Competition if the prize is unavailable due to unforeseen circumstances.
+> xvii. The Organisers reserve the right to substitute another prize of similar or equivalent value to be awarded to the winner and shortlisted participants of the Competition if the prizes are unavailable due to unforeseen circumstances.
 
-> xviii. By entering the Competition, all participants will be deemed to have accepted and agreed to be bound by these Terms & 
-Conditions.
+> xviii. By entering the Competition, all participants will be deemed to have accepted and agreed to be bound by these Terms &amp; Conditions.
