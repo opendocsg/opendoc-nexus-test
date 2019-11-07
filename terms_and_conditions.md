@@ -36,7 +36,7 @@ title: Terms & Conditions
 
 ## Copyrights
 
-> xii. The Organisers hold the full copyrights for the 5 logo designs shortlisted by the shortlisting panel. By participating in the contest, participants consent to give the Organisers permission to publish, modify and distribute the logo designs for education, publicity, marketing and communication purposes without payment or fees, should their designs be shortlisted for public voting.
+> xii. The Organisers hold the full copyrights for the 10 logo designs shortlisted by the shortlisting panel. By participating in the contest, participants consent to give the Organisers permission to publish, modify and distribute the logo designs for education, publicity, marketing and communication purposes without payment or fees, should their designs be shortlisted for public voting.
 
 ## Shortlisting
 
