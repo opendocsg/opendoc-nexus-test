@@ -1,5 +1,5 @@
 title: Total Defence Logo Design Competition 2019
-remote_theme: opendocsg/opendoc-theme@v2
+remote_theme: opendocsg/opendoc-theme@master
 timezone: Asia/Singapore
 repository: opendocsg/opendoc-total-defence-logo-design-competition
 plugins:
@@ -13,3 +13,15 @@ styling_options:
   logo_path: /assets/logo.jpg
   opendoc_logo_path: /assets/images/logo-full.png
   feedback_url:  'mailto:jermaine_si_yuen_teng@defence.gov.sg?subject=Total Defence Logo Public Design Competition 2019'
+
+hide_toolbar:
+  sidebar: false
+  pdf: false
+  github: true
+
+folders:
+  - name: '/'
+    title: 'Total Defence Logo Design Competition 2019'
+    subtitle: ''
+    order:
+      - "terms_and_conditions.md"
